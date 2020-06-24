@@ -1,0 +1,7 @@
+test_v*
+testa_*
+ssd_mobilenet_v1_coco_11_06_2017
+test_images/000
+.idea
+__pycache__/
+.DS_Store
